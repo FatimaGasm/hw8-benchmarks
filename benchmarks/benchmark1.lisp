@@ -1,4 +1,4 @@
-(define f x
+(define (f x)
   (let ((y (+ x 7)))      
       (let ((z (- y 2)))    
         (if (eq z 8)        
