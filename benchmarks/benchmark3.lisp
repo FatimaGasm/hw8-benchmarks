@@ -1,4 +1,4 @@
-(define repeat x
+(define (repeat x)
   (let ((y 1))      
       (let ((z 2))    
           (let ((u 3))
